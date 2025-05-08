@@ -7,4 +7,6 @@
 - [x] DiscordRPC integration
 
 - [ ] test
+
+<br>
 ![](https://komarev.com/ghpvc/?username=your-github-RogertoGol&abbreviated=true)
