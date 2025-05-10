@@ -15,5 +15,5 @@
 
 
 | ***[YouHere]***  | [![Course II]((https://github.com/RobertoGol/2Course-))] |
-| [![Course 3]((https://github.com/RobertoGol/3Course-))]  |
+| [![Course III]((https://github.com/RobertoGol/3Course-))]  |
 | [![Course IV]((https://github.com/RobertoGol/4Course-))] | [![Course V]((https://github.com/RobertoGol/5Course-))]  |
